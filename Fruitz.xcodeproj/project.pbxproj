@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4150149A26ED464B009CE466 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4150149926ED464B009CE466 /* FruitRowView.swift */; };
 		416CF92826EA7809005285FA /* FruitzApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 416CF92726EA7809005285FA /* FruitzApp.swift */; };
 		416CF92A26EA7809005285FA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 416CF92926EA7809005285FA /* ContentView.swift */; };
 		416CF92C26EA7809005285FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 416CF92B26EA7809005285FA /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4150149926ED464B009CE466 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 		416CF92426EA7809005285FA /* Fruitz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fruitz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		416CF92726EA7809005285FA /* FruitzApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitzApp.swift; sourceTree = "<group>"; };
 		416CF92926EA7809005285FA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				416CF93826EA8A9D005285FA /* FruitCardView.swift */,
 				416CF93A26EAA068005285FA /* StartButtonView.swift */,
+				4150149926ED464B009CE466 /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				416CF94326EABF1B005285FA /* FruitData.swift in Sources */,
 				416CF93926EA8A9D005285FA /* FruitCardView.swift in Sources */,
+				4150149A26ED464B009CE466 /* FruitRowView.swift in Sources */,
 				416CF93B26EAA068005285FA /* StartButtonView.swift in Sources */,
 				416CF92A26EA7809005285FA /* ContentView.swift in Sources */,
 				416CF93D26EAAD59005285FA /* OnboardingView.swift in Sources */,
